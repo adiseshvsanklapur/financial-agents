@@ -1,5 +1,5 @@
 # Agentic Web Search Tool
-## A Python based agent that uses LLaMa models on Groq for fast, low-latency reasoning, combined with DuckDuckGo search to intelligently summarize real-time web content. Managed using uv for streamlined environment setup.
+A Python based agent that uses LLaMa models on Groq for fast, low-latency reasoning, combined with DuckDuckGo search to intelligently summarize real-time web content. Managed using uv for streamlined environment setup.
 
 # Setting Up the Environment with `uv` (a Fast Python Package Manager)
 
